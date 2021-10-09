@@ -1,0 +1,7 @@
+root:x:0:root
+adm:x:4:swalawaga
+wheel:x:10:swalawaga
+root:x:0:swalawaga
+uucp:x:14:swalawaga
+swalawaga:x:1000:root
+swalawaga:x:1000:
